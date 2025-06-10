@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## What I’m Into
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I’m mostly working on:
+- **Self-supervised learning**
+- **Planning with world models**
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Some Ongoing Projects
+
+- Training transformers on **MIDI music**
+- Planning in control environments with **differentiable world models**
+- Approximating Neural Networks' **preimage** with polytopes
+
+
+## A Bit More
+
+I’m originally from Trieste, Italy 🇮🇹, temporarily based in New York City for a research internship at the Courant Institute of Mathematical Sciences (NYU), where I’m working on my master’s thesis.
+
+
+---
+
+## Let’s Connect
+
+- GitHub: [@gabrielepintus](https://github.com/GabrielePintus)
+- LinkedIn: [Gabriele Pintus](https://www.linkedin.com/in/gabriele-gavino-pintus/)
+- Email: gabrielegpintus@gmail.com

@@ -31,5 +31,7 @@ But since I believe that “anything you learn is useful”, I set my doubts asi
 
 In the second week of March 2025, I finally arrived in New York City. I was excited, but also a bit nervous. I had never been so far from home, and the only person I even remotely knew, prof. Canziani, wasn’t in the city during my first week there.
 
+*Looking back, calling it "Operation Yankee" might have been more accurate than I thought!*
+
 *The story’s not over yet, but I’ll finish this post tomorrow, I'm tired and need to sleep now.*
 

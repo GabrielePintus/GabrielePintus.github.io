@@ -24,7 +24,7 @@ Score: 73/100
 
 ---
 
-## 🧠 Research & Work Experience
+## 🧠 Research & work experience
 
 **Research Affiliate**  
 *[Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), NYU* — *Mar 2025 – Jul 2025*  
@@ -32,8 +32,8 @@ Score: 73/100
 - Developed self-supervised learning methods for MIDI music classification
 - Teaching Assistant for *Introduction to Deep Learning* with Prof. Alfredo Canziani
 
-**Research Intern**  
-*[AI Lab](https://ai-lab.units.it/), University of Trieste* — *2025*  
+**Research Intern**
+*[AI Lab](https://ai-lab.units.it/), University of Trieste* — *2025*
 - Research on neural network preimage approximation using [PREMAP](https://arxiv.org/abs/2408.09262) and [AutoLiRPA](https://arxiv.org/abs/2002.12920)
 
 **Technician**  
@@ -54,14 +54,14 @@ Score: 73/100
 
 ---
 
-## 🧪 Ongoing Projects
+## 🧪 Ongoing projects
 
 - **Planning with World Models** using learned value functions and policies  
 - **Neural Network Preimage Approximation** using geometric relaxations  
 
 ---
 
-## 🛠 Skills and Tools
+## 🛠 Skills and tools
 
 **Languages**  
 - Italian: Native  
@@ -82,7 +82,7 @@ Score: 73/100
 
 ---
 
-## 🏆 Awards & Certifications
+## 🏆 Awards & certifications
 
 - 🥉 *3rd Place* — Udine Winter Hackathon 2023  
   [Hackathon Announcement](https://qui.uniud.it/ateneo/winter-hackathon-connect-per-promuovere-la-collaborazione-universita-imprese-alluniud-lab-village/)

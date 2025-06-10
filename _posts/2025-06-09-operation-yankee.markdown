@@ -25,8 +25,8 @@ To try to make this happen, I started reaching out to several professors at my u
 The story of how I met him is a bit long, if you’re curious, you can read the full version in my other post: [How I Met Alfredo Canziani](/operation-yankee/2025/06/09/himac). It’s a funny story, and I think it’s worth sharing.
 After a few messages, an interview, and a meeting in person in Trieste, he accepted me as a research affiliate. In return, I agreed to help him create the course Introduction to Deep Learning, which he would later teach at NYU and for which he was developing new material. 
 
-So I started working on the assignments for the students as a Teaching Assistant. I wasn’t even in New York yet, but I was already beginning to revisit the basics I had studied before—this time from a different perspective.
-I’m not afraid to admit that, at first, I was a bit skeptical about the approach. I was more accustomed to a math-oriented style of teaching, where everything is derived from first principles and built up step by step. This course followed a completely different approach, and that initially made me uncomfortable.
+So I started helping with the assignments for the students as a Teaching Assistant. I wasn’t even in New York yet, but I was already beginning to revisit the basics I had studied before, this time from a different perspective.
+I’m not afraid to admit that, at first, I was a bit skeptical about the approach. I was used to a math-oriented style of teaching, where everything is derived from first principles and built up step by step. This course followed a completely different approach, and that initially made me uncomfortable.
 But since I believe that “anything you learn is useful”, I set my doubts aside and began to embrace the new perspective.
 
 In the second week of March 2025, I finally arrived in New York City. I was excited, but also a bit nervous. I had never been so far from home, and the only person I even remotely knew, prof. Canziani, wasn’t in the city during my first week there.

@@ -15,7 +15,7 @@ Several reasons led me to consider this path, and I believe sharing them might b
 - **Experience abroad**: I wanted to experience a different culture and way of life, which I believe is essential for personal growth. Living in another country helps you see things differently and understand issues from new angles. One thing I’ve learned is that every culture has its own merits and flaws—what matters is choosing the one that suits you best.
 *(But not the MM-DD-YYYY date format, please.)*
 - **Language skills**: I wanted to improve my English. Nothing is better than spending time in an English-speaking country. I had already studied English for many years, but I wanted to become more fluent and confident in my speaking abilities.
-- **Mithbusting**: This is the funniest one. I don’t know why, but in Italy there’s a common belief that U.S. universities “don’t teach theory” and focus only on practical applications, usually said with a tone of disdain, as if to justify the idea that “our engineers are better because they study theory.”
+- **Mythbusting**: This is the funniest one. I don’t know why, but in Italy there’s a common belief that U.S. universities “don’t teach theory” and focus only on practical applications, usually said with a tone of disdain, as if to justify the idea that “our engineers are better because they study theory.”
 When I hear this, I usually respond with a simple question:
 “Do the U.S. have cars? Trains? Planes? Rockets? The internet?”
 At this point, the person typically stumbles and replies with something like, “Well, yes, but…” and then starts coming up with unrelated arguments.

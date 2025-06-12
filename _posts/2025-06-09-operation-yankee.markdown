@@ -5,7 +5,7 @@ date:   2025-06-09 18:53:19 -0400
 categories: operation-yankee
 ---
 
-During my time at the University of Trieste as a Data Science student, I started thinking about having an experience abroad, specifically in the United States. This led to what I call Operation Yankee.
+During my time at the University of Trieste as a Master’s student in Data Science, I started thinking about having an experience abroad, specifically in the United States. This led to what I call Operation Yankee.
 
 *I know “Yankee” is technically a stereotypical term for people from New York, but in Italy, it’s often used to refer to Americans in general.*
 

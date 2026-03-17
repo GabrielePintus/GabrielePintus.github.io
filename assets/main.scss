@@ -4,3 +4,85 @@
 $base-font-size: 14px;
 
 @import "minima";
+
+:root {
+  color-scheme: light;
+  --bg: #f8f7f2;
+  --surface: #fffefb;
+  --text: #1f1f1f;
+  --muted: #595856;
+  --rule: #d7d3ca;
+  --link: #2f4d8d;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #181817;
+  --surface: #20201f;
+  --text: #ece9df;
+  --muted: #c5c0b5;
+  --rule: #3b3a35;
+  --link: #8fb4ff;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.site-header,
+.site-footer,
+.post-list > li {
+  border-color: var(--rule);
+}
+
+.site-title,
+.post-link,
+.page-link,
+a {
+  color: var(--link);
+}
+
+.site-title:visited,
+.post-link:visited,
+.page-link:visited,
+a:visited {
+  color: var(--link);
+}
+
+.post-meta,
+footer,
+.footer-col-wrapper {
+  color: var(--muted);
+}
+
+code,
+pre {
+  background: var(--surface);
+  border-color: var(--rule);
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin-left: 0.4rem;
+  cursor: pointer;
+  color: var(--text);
+  display: inline-flex;
+  align-items: center;
+  vertical-align: text-top;
+  opacity: 0.6;
+}
+
+.theme-toggle:hover {
+  opacity: 1;
+}
+
+.theme-icon {
+  display: none;
+}
+
+.theme-icon.active {
+  display: block;
+}

@@ -1,12 +1,12 @@
 
 title: Gabriele Pintus
 email: gabrielegpintus@gmail.com
-description: >-
-  Welcome to my blog!
+description: ""
 domain: gabrielepintus.github.io
 baseurl: ""
 url: "https://gabrielepintus.github.io"
 github_username:  GabrielePintus
+linkedin_username: gabriele-gavino-pintus
 
 # Build settings
 theme: minima
@@ -19,6 +19,24 @@ kramdown:
   syntax_highlighter: rouge
 
 
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+header_pages:
+  - posts.markdown
+  - projects.markdown
+  - about.markdown
+  - cv.markdown
 
 include:
   - _includes/head_custom.html

@@ -17,7 +17,7 @@ Several reasons led me to consider this path, and I believe sharing them might b
 - **Language skills**: I wanted to improve my English. Nothing is better than spending time in an English-speaking country. I had already studied English for many years, but I wanted to become more fluent and confident in my speaking abilities.
 - **Mythbusting**: This is the funniest one. I don’t know why, but in Italy there’s a common belief that U.S. universities “don’t teach theory” and focus only on practical applications, usually said with a tone of disdain, as if to justify the idea that “our engineers are better because they study theory.”
 When I hear this, I usually respond with a simple question:
-“Do the U.S. have cars? Trains? Planes? Rockets? The internet?”
+“Does the U.S. have cars? Trains? Planes? Rockets? The internet?”
 At this point, the person typically stumbles and replies with something like, “Well, yes, but…” and then starts coming up with unrelated arguments.
 Since I like to verify things for myself, I decided to go to the U.S. and see how things really are. There's no need to say all these misconceptions are false.
 

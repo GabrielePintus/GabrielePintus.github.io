@@ -7,7 +7,7 @@ layout: home
 
 Hi there! I’m **Gabriele Pintus** and I’m into Data Science and Machine Learning.
 
-📍 From Trieste, Italy — temporairly in NYC 🇮🇹🇺🇸
+📍 Trieste, Italy 🇮🇹
 
 More [about me](about).
 

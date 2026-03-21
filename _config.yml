@@ -35,7 +35,6 @@ defaults:
 header_pages:
   - posts.markdown
   - projects.markdown
-  - about.markdown
   - cv.markdown
 
 include:

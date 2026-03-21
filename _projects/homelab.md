@@ -44,7 +44,7 @@ TrueNAS manages the three WD Red disks in a **RAIDZ1** configuration, providing 
 
 #### Syncthing
 
-Continuous file synchronization across devices. It runs directly on TrueNAS and is used, among other things, to sync my Obsidian vault across devices without relying on any cloud service or paid subscription.
+Continuous file synchronization across devices. It runs directly on TrueNAS and is used, among other things, to sync my Obsidian vault across devices. The NAS acts as the always-on hub that keeps the laptop and desktop in sync without relying on any cloud service or paid subscription.
 
 ---
 

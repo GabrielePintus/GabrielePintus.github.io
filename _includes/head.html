@@ -30,6 +30,11 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
+  document.querySelectorAll('.mermaid').forEach(el => {
+    el.setAttribute('data-source', el.textContent);
+  });
+  const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default';
+  mermaid.initialize({ startOnLoad: true, theme });
+  window.__mermaid = mermaid;
 </script>
 </head>

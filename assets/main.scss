@@ -37,17 +37,38 @@ body {
 }
 
 .site-title,
+.site-nav .page-link,
 .post-link,
 .page-link,
-a {
+a,
+a:link {
   color: var(--link);
 }
 
 .site-title:visited,
+.site-nav .page-link:visited,
 .post-link:visited,
 .page-link:visited,
 a:visited {
   color: var(--link);
+}
+
+.site-header {
+  background-color: var(--bg);
+  border-color: var(--rule);
+}
+
+.site-nav .page-link,
+.site-nav .menu-icon > svg path {
+  color: var(--text);
+  fill: var(--text);
+}
+
+body,
+.wrapper,
+h1, h2, h3, h4, h5, h6,
+p, li, td, th, blockquote {
+  color: var(--text);
 }
 
 .post-meta,
@@ -57,9 +78,36 @@ footer,
 }
 
 code,
-pre {
+pre,
+.highlighter-rouge,
+.highlighter-rouge pre,
+.highlighter-rouge pre.highlight,
+div.highlighter-rouge,
+figure.highlight {
   background: var(--surface);
   border-color: var(--rule);
+  color: var(--text);
+}
+
+table {
+  border-color: var(--rule);
+}
+
+table th {
+  background-color: var(--surface);
+  border-color: var(--rule);
+}
+
+table td {
+  border-color: var(--rule);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--surface);
+}
+
+table tr:nth-child(odd) {
+  background-color: var(--bg);
 }
 
 .theme-toggle {
@@ -100,11 +148,15 @@ pre {
 }
 
 .home-links a,
-.content-card,
 .related-card {
   background: var(--surface);
   border: 1px solid var(--rule);
   border-radius: 10px;
+}
+
+.content-card {
+  border-bottom: 1px solid var(--rule);
+  border-radius: 0;
 }
 
 .home-links a {

@@ -24,6 +24,14 @@
           document.getElementById("theme-icon-sun").classList.toggle("active", theme === "dark");
           document.getElementById("theme-icon-moon").classList.toggle("active", theme === "light");
           button.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
+          if (window.__mermaid) {
+            document.querySelectorAll('.mermaid').forEach(function(el) {
+              var src = el.getAttribute('data-source');
+              if (src) { el.innerHTML = src; el.removeAttribute('data-processed'); }
+            });
+            window.__mermaid.initialize({ startOnLoad: false, theme: theme === 'dark' ? 'dark' : 'default' });
+            window.__mermaid.run({ querySelector: '.mermaid' });
+          }
         }
 
         var current = document.documentElement.getAttribute("data-theme") || "light";

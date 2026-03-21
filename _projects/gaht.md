@@ -48,20 +48,11 @@ Instead, I defined a hierarchy of activation functions as a tree and derived a d
 <div style="max-width: 640px; margin: 1.25em auto;">
 <div class="mermaid">
 %%{init: {
-  'theme': 'base',
   'flowchart': {
     'curve': 'monotoneY',
     'nodeSpacing': 50,
     'rankSpacing': 60,
     'padding': 12
-  },
-  'themeVariables': {
-    'fontSize': '16px',
-    'fontFamily': 'ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif',
-    'lineColor': '#6b7280',
-    'textColor': '#111827',
-    'primaryColor': '#e5e7eb',
-    'primaryBorderColor': '#374151'
   }
 }}%%
 graph TD
@@ -81,14 +72,6 @@ graph TD
 
     round --> elu(elu)
     round --> gelu(gelu)
-
-    classDef root fill:#dbeafe,stroke:#1d4ed8,color:#0f172a,stroke-width:2px;
-    classDef internal fill:#f3f4f6,stroke:#4b5563,color:#111827,stroke-width:1.5px;
-    classDef leaf fill:#ecfdf5,stroke:#047857,color:#064e3b,stroke-width:1.5px;
-
-    class root root;
-    class unbounded,bounded,straight,round internal;
-    class tanh,sigmoid,relu,leakyrelu,elu,gelu leaf;
 </div>
 </div>
 

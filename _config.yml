@@ -33,9 +33,9 @@ defaults:
       layout: project
 
 header_pages:
-  - posts.markdown
-  - projects.markdown
-  - cv.markdown
+  - posts.md
+  - projects.md
+  - cv.md
 
 include:
   - _includes/head_custom.html

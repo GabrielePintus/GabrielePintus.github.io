@@ -3,6 +3,7 @@ title: "Genetic Algorithm for Hyperparameter Tuning"
 status: "Completed"
 tags: [Python, Optimization, Genetic Algorithms]
 github: https://github.com/GabrielePintus/GMOO-Project
+key: gaht
 ---
 
 Hyperparameter optimization often involves a complex mix of discrete choices (e.g., number of layers, activation function) and continuous variables (e.g., learning rate, dropout). Standard search methods frequently struggle with this hybrid space: Grid Search fails to scale, while Bayesian Optimization, though powerful, can be sensitive to initialization and struggle with non-continuous variables.

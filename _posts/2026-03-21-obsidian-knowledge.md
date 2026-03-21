@@ -3,6 +3,9 @@ layout: post
 title: "Building a knowledge base with Obsidian"
 date: 2026-03-21
 categories: productivity
+key: obsidian-knowledge
+related_posts:
+  - obsidian-sync
 ---
 
 

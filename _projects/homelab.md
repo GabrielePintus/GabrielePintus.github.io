@@ -2,6 +2,9 @@
 title: "Home Lab"
 status: "Ongoing"
 tags: [ESXi, VMware, Networking, pfSense, TrueNAS, NAS, Syncthing]
+key: homelab
+related_posts:
+  - obsidian-sync
 ---
 
 At home, I run a custom-built NAS on TrueNAS. It handles primary storage and backups, and sits quietly next to the router.

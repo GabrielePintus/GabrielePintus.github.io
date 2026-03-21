@@ -1,0 +1,32 @@
+{% assign has_related = false %}
+{% if page.related_posts and page.related_posts.size > 0 %}
+  {% assign has_related = true %}
+{% endif %}
+{% if page.related_projects and page.related_projects.size > 0 %}
+  {% assign has_related = true %}
+{% endif %}
+
+{% if has_related %}
+<section class="related-content">
+  <h2>Related</h2>
+  <div class="related-grid">
+    {% for post in site.posts %}
+      {% if page.related_posts contains post.key %}
+        <article class="related-card">
+          <p class="related-meta">Post · {{ post.date | date: "%B %d, %Y" }}</p>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        </article>
+      {% endif %}
+    {% endfor %}
+
+    {% for project in site.projects %}
+      {% if page.related_projects contains project.key or page.related_posts contains project.key %}
+        <article class="related-card">
+          <p class="related-meta">Project{% if project.status %} · {{ project.status }}{% endif %}</p>
+          <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

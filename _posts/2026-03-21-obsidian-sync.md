@@ -3,6 +3,11 @@ layout: post
 title: "How I sync my Obsidian vault for free"
 date: 2026-03-21
 categories: homelab
+key: obsidian-sync
+related_posts:
+  - obsidian-knowledge
+related_projects:
+  - homelab
 ---
 
 Obsidian Sync costs $8 a month. I already have a NAS at home, so I set up the same thing for free using Syncthing.

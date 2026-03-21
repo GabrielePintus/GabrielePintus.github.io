@@ -86,3 +86,75 @@ pre {
 .theme-icon.active {
   display: block;
 }
+
+.home-links,
+.content-index,
+.related-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.home-links {
+  grid-template-columns: repeat(auto-fit, minmax(140px, max-content));
+  margin: 1.5rem 0 0.5rem;
+}
+
+.home-links a,
+.content-card,
+.related-card {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+}
+
+.home-links a {
+  padding: 0.7rem 0.9rem;
+  text-decoration: none;
+}
+
+.home-links a:hover,
+.content-card h2 a:hover,
+.related-card h3 a:hover {
+  text-decoration: none;
+}
+
+.content-index,
+.related-grid {
+  margin-top: 1.5rem;
+}
+
+.content-card,
+.related-card {
+  padding: 1rem 1.1rem;
+}
+
+.content-card h2,
+.related-card h3 {
+  margin: 0.15rem 0 0.4rem;
+}
+
+.content-card p:last-child,
+.related-card p:last-child {
+  margin-bottom: 0;
+}
+
+.content-meta,
+.related-meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.content-sep {
+  margin: 0 0.35rem;
+}
+
+.related-content {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.related-content h2 {
+  margin-bottom: 0.85rem;
+}

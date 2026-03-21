@@ -3,6 +3,9 @@ layout: post
 title:  "Operation Yankee"
 date:   2025-06-09 18:53:19 -0400
 categories: operation-yankee
+key: operation-yankee
+related_posts:
+  - himac
 ---
 
 During my time at the University of Trieste as a Master’s student in Data Science, I started thinking about having an experience abroad, specifically in the United States. This led to what I call Operation Yankee.
@@ -46,7 +49,6 @@ After that, I made myself comfortable at Prof. Canziani’s desk, which he had l
 Since then, every day has brought something new: papers to read, experiments to run, and a lot of ideas to explore. I’m still in the middle of this experience, and I don’t yet know exactly where it will lead. But I can already say it’s one of the most enriching and inspiring things I’ve ever done.
 
 *To be continued...*
-
 
 
 
